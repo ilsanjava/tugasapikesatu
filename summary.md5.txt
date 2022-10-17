@@ -1,0 +1,7 @@
+Intro laravel - Apa Itu laravel
+download & instal Composer
+install Laravel via composer
+install Rest API client (insomnia)
+menjalankan Laravel
+route Laravel
+membuat contrller
